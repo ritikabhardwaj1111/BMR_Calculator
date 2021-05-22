@@ -1,6 +1,6 @@
 # BMR_Calculator
 BMR calculator stands for Basal Metabolic Rate calculator. After knowing the Basal Metabolic Rate, one can estimate the minimal amount of calories to be taken daily.
-#BMR calculation
+<h1>BMR calculation</h1>
 For men:
 BMR = 13.397W + 4.799H - 5.677A + 88.362
 For women:
